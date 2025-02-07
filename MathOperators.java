@@ -34,9 +34,9 @@ final class MathOperators {
         // Division with integers
         System.out.println("18 / 6 = " + (18 / 6));
         // Division with float numbers
-        System.out.println("10 / 3 = " + (10f / 3f));
+        System.out.println("4 / 6 = " + (4f / 6f));
         // Division with double numbers
-        System.out.println("10 / 3 = " + (10d / 3d));
+        System.out.println("13 / 3 = " + (4d / 6d));
         // Exponents to the power of 2
         System.out.println("4^2 = " + (Math.pow(4, 2)));
         // Exponents to the power of 3
